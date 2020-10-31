@@ -1,34 +1,34 @@
 body {
-    width: 33%;
+  width: 33%;
 }
 
-.resultDisplay {
-    background-color: lightgray;
-    border: solid;
-    height: 48px;
-    font-size: 20px;
+#res {
+  background-color: lightgray;
+  border: solid;
+  height: 48px;
+  font-size: 20px;
 }
 
-.buttons button {
-    width: 25%;
-    height: 36px;
-    font-size: 18px;
-    margin: 0px;
-    float: left;
+#btns button {
+  width: 25%;
+  height: 36px;
+  font-size: 18px;
+  margin: 0px;
+  float: left;
 }
 
-.binary {
-    background-color: lightgreen;
-    color: brown;
+.binaryBtn {
+  background-color: lightgreen;
+  color: brown;
 }
 
-.final {
-    background-color: darkgreen;
-    color: black;
+.finalBtn {
+  background-color: darkgreen;
+  color: white;
 }
 
-.ops {
-    background-color: black;
-    color: brown;
+.operationBtn{
+  background-color: black;
+  color: red;
 }
 
